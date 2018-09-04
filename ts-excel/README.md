@@ -88,7 +88,7 @@ public class ShopDTO {
 
 ```
 
-## using in java 
+## Using in java code
 
 ``` java
 public static void main(String[] args) {
