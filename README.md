@@ -1,7 +1,7 @@
 # 文件操作工具集
 
-## Excel export usage [ts-excel](ts-excel)
+## Excel文件导入导出，支持实体对象转换 [ts-excel](ts-excel)
 
-## PDF export usage
+## PDF 文件导出 [ts-pdf](ts-pdf)
 
-### Word export usage
+## Wrod 文件到处 [ts-word](ts-word)
